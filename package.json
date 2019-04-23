@@ -15,14 +15,21 @@
     "mccmnc",
     "luhn"
   ],
-  "author": {
-    "name": "J. Félix Ontañón",
-    "email": "felix.ontanon@podgroup.com"
-  },
+  "author": "J. Félix Ontañón <felix.ontanon@podgroup.com>",
   "license": "GPL-3.0+",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/podgroupconnectivity/simutils-js.git",
     "github": "https://github.com/podgroupconnectivity/simutils-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/podgroupconnectivity/simutils-js/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha"
   }
 }
