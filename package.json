@@ -1,6 +1,6 @@
 {
   "name": "simutils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SIM card checksum and encoding utils for nibbling, mcc, mnc, etc.",
   "homepage": "https://github.com/podgroupconnectivity/simutils-js",
   "main": "src/index.js",
