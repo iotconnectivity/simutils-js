@@ -1,0 +1,28 @@
+{
+  "name": "simutils",
+  "version": "0.1.0",
+  "description": "SIM card checksum and encoding utils for nibbling, mcc, mnc, etc.",
+  "homepage": "https://github.com/podgroupconnectivity/simutils-js",
+  "main": "src/index.js",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "keywords": [
+    "simcard",
+    "smartcard",
+    "gsm",
+    "mcc",
+    "mccmnc",
+    "luhn"
+  ],
+  "author": {
+    "name": "J. Félix Ontañón",
+    "email": "felix.ontanon@podgroup.com"
+  },
+  "license": "GPL-3.0+",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/podgroupconnectivity/simutils-js.git",
+    "github": "https://github.com/podgroupconnectivity/simutils-js.git"
+  }
+}
